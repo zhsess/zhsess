@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Ph.D. student in Geophysics at the University of Southern California. Before joining USC, I received his B.Sc. from Peking University, China, in 2020.
+I'm a Ph.D. student in Geophysics at the University of Southern California. Before joining USC, I received my B.Sc. from Peking University, China, in 2020.
 
 As an observational seismologist, my research interests span from the shallowest crust to the deepest inner core. My current work includes the inversion of earthquake source properties and the exploration of heterogeneity in the crust, mantle, and core. By combining diverse theoretical tools, computation methods, and observational datasets, I seek to contribute novel insights into Earth's structure and earthquake processes.
